@@ -7,7 +7,7 @@ Harina de trigo
 Aceite (el necesario para freír)
 
 
-![Alt text](https://t2.rg.ltmcdn.com/es/posts/0/8/8/tortitas_de_platano_73880_600.jpg"Imagen Torta")
+![Alt text](https://t2.rg.ltmcdn.com/es/posts/0/8/8/tortitas_de_platano_73880_600.jpg "Imagen Torta")
 
 <table style="width: 100%; text-align: center;">
   <tr>

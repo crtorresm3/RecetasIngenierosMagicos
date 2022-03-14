@@ -5,11 +5,13 @@ Receta de Tortitas de Platano
 Harina de trigo 
 2 huevos
 Aceite (el necesario para freír)
-![Alt text](https://www.tasteofhome.com/wp-content/uploads/2018/01/exps12505_CW10119C29A-4.jpg?fit=700,1024 "Imagen Sabrosa 2")
+
+
+![Alt text](https://t2.rg.ltmcdn.com/es/posts/0/8/8/tortitas_de_platano_73880_600.jpg"Imagen Torta")
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%;">Primera columna</td>
+    <td style="width: 33%;">Ingredientes</td>
     <td style="width: 33%;">Segunda columna</td>
     <td style="width: 33%;">Tercera columna</td>
   </tr>

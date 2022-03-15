@@ -9,14 +9,14 @@ Aceite (el necesario para freír)
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%;">Primera columna</td>
-    <td style="width: 33%;">Segunda columna</td>
-    <td style="width: 33%;">Tercera columna</td>
+    <td style="width: 33%;">ingredientes</td>
+    <td style="width: 33%;">porcion </td>
+    <td style="width: 33%;">nota</td>
   </tr>
   <tr>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">plátanos machos  2  (rebanados no tan delgados ni largos)</td>
   </tr>
   <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">queso panela   1/2 k</td>
   </tr>
 </table>

@@ -84,3 +84,49 @@ Una vez que esté listo el caldito, servimos un par de tortitas en un plato y ca
     
   </tr>
 </table>
+
+<table style="width: 100%; text-align: center;">
+<tr>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">**Ingrediente para el caldillo**</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Ingredientes</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">porcion</td>
+    
+  </tr>
+  <tr>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">jitomate Rojo</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">1K</td>
+    
+  </tr>
+  <tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Raja de Canela</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">1</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">pimienta negras gordas</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">5</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">ajos medianos</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">3</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">cebolla mediana</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Media</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">bolillo de preferencia duro</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">1/4</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Aceite</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">el necesario para freír</td>
+    
+  </tr>
+</table>

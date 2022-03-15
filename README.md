@@ -32,9 +32,9 @@ Una vez que esté listo el caldito, servimos un par de tortitas en un plato y ca
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%;">Ingrediente</td>
-    <td style="width: 33%;">Receta</td>
-    <td style="width: 33%;">Tercera columna</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Receta</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Ingredientes</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Salud</td>
   </tr>
   <tr>
     <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>

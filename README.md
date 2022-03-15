@@ -1,6 +1,6 @@
-#**Receta de Tortitas de Platano**
+**Receta de Tortitas de Platano**
 
-##**Ingredientes para las Tortitas**
+**Ingredientes para las Tortitas**
 
 -2 plátanos machos (rebanados no tan delgados ni largos)
 
@@ -12,7 +12,7 @@
 
 -Aceite (el necesario para freír)
 
-##**Ingrediente para el caldillo**
+**Ingrediente para el caldillo**
 
 -1k jitomate Rojo
 
@@ -28,7 +28,7 @@
 
 -Aceite (el necesario para freír) 
 
-##**Procedimiento tortitas de plátano**
+**Procedimiento tortitas de plátano**
 
 Armar una especie de sandwich con el plátano y una rebanada de queso.
 
@@ -38,7 +38,7 @@ Pasar por el huevo revuelto
 
 Freír
 
-##**Procedimiento caldillo**
+**Procedimiento caldillo**
 
 Freír súper bien todos los ingredientes teniendo cuidado que no se queme la Canela ni la pimienta.
 

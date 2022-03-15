@@ -50,19 +50,37 @@ Una vez que esté listo el caldito, servimos un par de tortitas en un plato y ca
 ![Alt text](https://i.ytimg.com/vi/YBfk5UjhtNQ/maxresdefault.jpg "Imagen Torta")
 
 <table style="width: 100%; text-align: center;">
+<tr>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Ingredientes para las Tortitas**</td>
+  </tr>
   <tr>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Receta</td>
     <td colspan="3" style="width: 100%; padding-top: 50px;">Ingredientes</td>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Salud</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">porcion</td>
+    
   </tr>
   <tr>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">plátanos machos</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">2</td>
+    
   </tr>
   <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">queso panela</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">1/2 k</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Harina de trigo</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">1</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">huevos</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">2</td>
+    
+  </tr>
+<tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Aceite</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">1</td>
+    
   </tr>
 </table>

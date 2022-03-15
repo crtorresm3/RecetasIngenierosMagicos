@@ -38,8 +38,12 @@ Una vez que esté listo el caldito, servimos un par de tortitas en un plato y ca
   </tr>
   <tr>
     <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
   </tr>
   <tr>
     <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
   </tr>
 </table>

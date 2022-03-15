@@ -32,15 +32,14 @@ Una vez que esté listo el caldito, servimos un par de tortitas en un plato y ca
 
 <table style="width: 100%; text-align: center;">
   <tr>
-
-    <td style="width: 33%;">ingredientes</td>
-    <td style="width: 33%;">porcion </td>
-    <td style="width: 33%;">nota</td>
+    <td style="width: 33%;">Ingrediente</td>
+    <td style="width: 33%;">Receta</td>
+    <td style="width: 33%;">Tercera columna</td>
   </tr>
   <tr>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">plátanos machos  2  (rebanados no tan delgados ni largos)</td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
   </tr>
   <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">queso panela   1/2 k</td>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
   </tr>
 </table>

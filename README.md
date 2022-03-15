@@ -1,6 +1,6 @@
-**Receta de Tortitas de Platano**
+#**Receta de Tortitas de Platano**
 
-**Ingredientes para las Tortitas**
+##**Ingredientes para las Tortitas**
 
 -2 plátanos machos (rebanados no tan delgados ni largos)
 
